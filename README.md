@@ -2,4 +2,6 @@
 
 Fork del modulo di Simone Ricciardi @riccisi ripreso e corretto causa inattività del creatore
 
-La correzione è stata applicata da Arkangel
+Per installare il modulo andare su Foundry > Moduli Aggiuntivi > Installa Modulo e incollare il link: https://raw.githubusercontent.com/CaliaG/traduttoreDnD5e/main/module.json
+
+![alt text](image.png)
