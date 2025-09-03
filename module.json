@@ -2,27 +2,39 @@
   "id": "translation-dnd5e-it",
   "name": "translation-dnd5e-it",
   "title": "DnD5e Traduttore italiano",
-  "description": "Traduttore per la lingua italiana di D&D5 in FoundryVTT.",
-  "version": "0.50",
+  "description": "Traduttore per la lingua italiana di D&D5 in FoundryVTT (by CaliaG).",
+  "version": "0.51",
   "minimumCoreVersion": "11",
-  "compatibleCoreVersion": "12",
+  "compatibleCoreVersion": "13",
   "systems": ["dnd5e"],
   "minimumSystemVersion": "1.6.0",
+  
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
   "dependencies": [{
     "name": "babele",
     "type": "module"
   }],
-  "author": "ariakas81, Simone, MrDaerlic, ciuei, DMage, Floppy, heirold, Elia.Hard",
+
+  "authors": [{
+    "name": "Giuseppe Calia"
+  }],
+
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": ["./style.css"],
   "packs": [],
+
   "languages": [{
     "lang": "it",
     "name": "Italian",
     "path": "it.json"
   }],
-  "url": "https://github.com/WikiRole/traduttoreDnD5e",
+
+  "url": "https://github.com/CaliaG/traduttoreDnD5e",
   "manifest": "https://raw.githubusercontent.com/CaliaG/traduttoreDnD5e/main/module.json",
   "download": "https://github.com/CaliaG/traduttoreDnD5e/archive/refs/heads/main.zip"
 }
