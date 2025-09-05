@@ -3,7 +3,7 @@
   "name": "translation-dnd5e-it",
   "title": "DnD5e Traduttore italiano",
   "description": "Traduttore per la lingua italiana di D&D5 in FoundryVTT (by CaliaG).",
-  "version": "0.59",
+  "version": "0.60",
   "compatibility": {
     "minimum": 13,
     "verified": 13
@@ -33,5 +33,5 @@
     }],
   "url": "https://github.com/CaliaG/traduttoreDnD5e",
   "manifest": "https://raw.githubusercontent.com/CaliaG/traduttoreDnD5e/main/module.json",
-  "download": "https://github.com/CaliaG/traduttoreDnD5e/archive/refs/tags/v0.59.zip"
+  "download": "https://github.com/CaliaG/traduttoreDnD5e/archive/refs/tags/v0.60.zip"
 }
